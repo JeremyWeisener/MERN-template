@@ -1,0 +1,32 @@
+{
+	"picadillo": {
+		"time": "~35min",
+		"cost": 2,
+		"listLength": 11,
+		"banner": "https://i.imgur.com/eTuCPxM.jpg",
+		"video": "https://www.youtube.com/embed/qzQNiX1TNxs?rel=0",
+		"ingredients": [
+			"1 pack of beyond meat beef crumbles",
+			"1 finely diced medium onion",
+			"1/4 of a green bell pepper(finely chopped)",
+			"5 cloves of fresh garlic",
+			"2-3tbsp of Olive oil",
+			"2 small canss of tomato sauce",
+			"1-2 Sazon packets",
+			"1 tsp onion powder",
+			"1 sp garlic powder",
+			"1/4-1/2tsp Cumin",
+			"2 bay leaves",
+			"Olive juice to taste"
+		],
+		"instructions": [
+			"Saute the first five ingredients until translucent.",
+			"Add in the beef crumbles(I chop mine small) and cook for 1-2 minutes.",
+			"Add the rest of the ingredients, cover and simmer for 10-15 minutes on low.",
+			"Add more seasonings to taste.",
+			"Serve over rice and with fried potatoes on top (if desired.)"
+		]
+
+	},
+	
+}
